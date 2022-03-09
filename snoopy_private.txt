@@ -1,0 +1,24 @@
+snoopy private 'most advanced qbot of 2020'
+
+this qbot was custom made by snoopy and co helped by baba
+
+snoopy provides the best patches against researches
+
+
+our username and password system logs all ips if incorrect, you can use the cnc command 'Banip'
+which will cut off all connections to that ip, we reject all connection types from that ip.
+
+using Banip you can kick bots aswell, not just users
+
+message of the day feature 'for all irc lovers'
+
+we have added a motd feature allowing you to update and contact all customers when on net to see
+maitnce, updates and downtime.
+
+great attack methods, snoopy_private has easy and op attack methods, testing and works.
+
+ticket system "like in the orginal snoopy" for people selling spots our updated ticket system will help you with your customers needs
+
+log systems logging all user inputs displaying time:user:pass:ip 
+
+#Thanks for using snoopy_private msg me, snoopy if you need help.
